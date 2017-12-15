@@ -1,0 +1,35 @@
+{
+	"Type":
+	{
+		"M" : "Mini",
+		"E" : "Economy",
+		"C" : "Compact",
+		"I" : "Intermediate",
+		"S" : "Standard",
+		"F" : "Full size",
+		"P" : "Premium",
+		"L" : "Luxury",
+		"X" : "Special"
+	},
+	"Doors" : 
+	{
+		"B" : "2 doors",
+		"C" : "4 doors",
+		"D" : "5 doors",
+		"W" : "Estate",
+		"T" : "Convertible",
+		"F" : "SUV",
+		"P" : "Pick up",
+		"V" : "Passenger Van"
+	},
+	"Transmission" : 
+	{
+		"M" : "Manual",
+		"A" : "Automatic"
+	},
+	"FuelAC" : 
+	{
+		"N" : "Petrol/no AC",
+		"R" : "Petrol/AC"
+	}
+}
