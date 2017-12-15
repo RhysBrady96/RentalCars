@@ -1,10 +1,10 @@
 # RentalCars Tasks
 
 The following tasks have been implemented in this project:
-	Order vehicle by ascending price
-	"Calculate" the specification from the 4 character sipp string
-	Get the best supplier per car type
-	Get the "Sum" of scores of each vehicle
+1. Order vehicle by ascending price
+2. "Calculate" the specification from the 4 character sipp string
+3. Get the best supplier per car type
+4. Get the "Sum" of scores of each vehicle
 
 There were some things i wasnt 100% what was wanted in the spec: 	
 
